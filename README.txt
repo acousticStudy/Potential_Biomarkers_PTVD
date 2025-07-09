@@ -1,7 +1,7 @@
 # Potential_Biomarkers_PTVD
 
 This repository contains MATLAB and Python scripts used in the study titled:
-**"SHAP-Based Identification of Potential Acoustic Biomarkers in Patients with Functional PTVD."**
+"SHAP-Based Identification of Potential Acoustic Biomarkers in Patients with Functional PTVD."
 ==================================================================
 
 Overview
