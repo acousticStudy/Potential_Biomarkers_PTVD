@@ -1,0 +1,27 @@
+
+# === MATLAB Temporary Files ===
+*.asv
+*.autosave
+*.fig
+*.mat
+*.mlx
+*.slxc
+*.mex*
+*.mlappinstall
+*.mlpkginstall
+
+# === Python Temporary Files ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*.so
+*.egg-info/
+*.ipynb_checkpoints
+*.log
+
+# === Common System Files ===
+.DS_Store
+Thumbs.db
+*.tmp
